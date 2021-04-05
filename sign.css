@@ -1,0 +1,13 @@
+body{margin:0; padding:0; background:#fff}
+.signin a{text-decoration:none}
+.signin{color:purple; font-size:14px; font-weight:bold}
+.signupsuccess{color:green; font-size:18px; font-weight:bold}
+.signuperror{color:red; font-size:15px}
+.contain h1{font-size:22px; color:black; font-weight:bold; text-align:center; padding-top:10px}
+label{font-size:11px;font-weight:bold}
+body{padding:30px; margin:0;background:#f3f3f3}
+.contain .sign{padding:5px;background:black;color:white; font-size:11px; width:60px; border:0; opacity:0.7; border-radius:15px}
+.contain .sign:hover{font-weight:bold}
+input[type="text"]{height:40px; opacity:0.8}
+input[type="password"]{height:40px; opacity:0.8}
+input[type="email"]{height:40px; opacity:0.9}

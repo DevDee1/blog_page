@@ -1,0 +1,21 @@
+body{background-color:#f3f3f3; margin:0; border:0}
+.contain .navbar{background-color:black;}
+.contain .navbar-nav li a{color:#fff;}
+.contain .navbar-collapse{background-color:black}
+.contain .navbar-nav li a:hover{color:red}
+.contain .navbar-nav li a:visited{color:#fff}
+.contain .navbar-nav li a:hover{color:red}
+.contain .navbar-brand{color:#fff}
+.contain .navbar-brand:hover{color:#fff}
+.contain .navbar-toggle .icon-bar{background-color:#fff}
+.contain .dropdown-menu li a{background-color:black}
+.navbar-nav{padding-left:50px; font-size:18px; font-family:arial;}
+.navbar{height:60px;}
+.footer{position:fixed;left:0; bottom:0; width:100%; background-color:black;color:#fff;font-size:11px}
+.copy{float:left;padding:10px 30px}
+.contact{float:right;padding:10px 30px}
+.aboutcover img{width:35%; height:10%; display:block; margin-left:auto; margin-right:auto;}
+.aboutcover{padding-top:200px; background-color:#fff; width:80%;margin:auto; padding-bottom:100%}
+.aboutcover .about{padding:0 30px;}
+.aboutcover p{font-size:16px; }
+.aboutcover h3{color:#f98f39}

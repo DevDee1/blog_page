@@ -1,0 +1,27 @@
+body{background-color:#f3f3f3; margin:0; border:0;font-family:arial}
+.contain .navbar{background-color:black;}
+.contain .navbar-nav li a{color:#fff;}
+.contain .navbar-collapse{background-color:black}
+.contain .navbar-nav li a:hover{color:red}
+.contain .navbar-nav li a:visited{color:#fff}
+.contain .navbar-nav li a:hover{color:red}
+.contain .navbar-brand{color:#fff}
+.contain .navbar-brand:hover{color:#fff}
+.contain .navbar-toggle .icon-bar{background-color:#fff}
+.contain .dropdown-menu li a{background-color:black; color:#fff}
+.navbar-nav{padding-left:50px; font-size:18px; font-family:arial;}
+.navbar{height:60px;}
+.footer{position:fixed;left:0; bottom:0; width:100%; background-color:black;color:#fff;font-size:11px}
+.dietcover{width:100%;padding-bottom:100%;}
+.copy{float:left;padding:10px 30px}
+.contact{float:right;padding:10px 30px}
+.dietcover .links{font-family:arial; width:80%;margin-left:10px;padding-top:120px;}
+.dietcover .links ul{list-style-type:none;margin:0;padding:0;text-align:center}
+.dietcover .links ul li{list-style-type:none}
+.dietcover .links h3{color:black;text-align:center;font-size:18px;text-transform:uppercase}
+.dietcover .links a{color:#f98f39; font-size:13px; display:block; border-bottom:1px solid black;
+text-decoration:none;padding:5px;}
+.dietcover .links a:hover{text-decoration:none; color:blue}
+.dietcover .cover{margin:0; background-color:#fff;padding-top:200px;}
+.dietcover .cover h4{font-family:arial;font-size:20px;font-weight:bold;text-align:center; padding-bottom:25px}
+.dietcover .cover p{font-size:16px;margin-left:12px}

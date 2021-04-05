@@ -1,0 +1,28 @@
+body{background-color:#f3f3f3; margin:0; border:0}
+.contain .navbar{background-color:black;}
+.contain .navbar-nav li a{color:#fff;}
+.contain .navbar-collapse{background-color:black}
+.contain .navbar-nav li a:hover{color:red}
+.contain .navbar-nav li a:visited{color:#fff}
+.contain .navbar-nav li a:hover{color:red}
+.contain .navbar-brand{color:#fff}
+.contain .navbar-brand:hover{color:#fff}
+.contain .navbar-toggle .icon-bar{background-color:#fff}
+.contain .dropdown-menu li a{background-color:black; color:#fff}
+.navbar-nav{padding-left:50px; font-size:18px; font-family:arial;}
+.navbar{height:60px;}
+.banner{padding-top:30px;padding-bottom:30px}
+.banner .jumbotron{height:350px;background-image:url(image21.jpeg);
+background-repeat:no-repeat;background-size:cover;
+ margin:0px;padding:40px 60px;border-radius:0px;}
+.banner .jumbotron h3{font-size:22px; color:black; font-family:arial;font-weight:bold;padding:0; padding-top:30px}
+.banner .jumbotron p{font-size:14px; color:#f98f39;font-weight:bold}
+.footer{position:fixed;left:0; bottom:0; width:100%; background-color:black;color:#fff;font-size:11px}
+.copy{float:left;padding:10px 30px}
+.contact{float:right;padding:10px 30px}
+.article{background-color:#fff;width:100%;padding-bottom:100%; padding-top:50px}
+.article h3{text-align:center; color:black;}
+
+.article a h3{color:#f98f39; font-size:16px; font-weight:bold}
+.article .post{padding-bottom:50px; padding-top:0;padding-right:5px;padding-left:5px;}
+
